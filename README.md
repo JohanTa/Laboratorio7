@@ -44,9 +44,19 @@ la frecuencia 10
 ![WhatsApp Image 2021-08-30 at 22 22 15](https://user-images.githubusercontent.com/81887698/131436544-34e6c833-c963-415b-a600-bfb2a4772419.jpeg)
 
 la frecuencia 50
+![WhatsApp Image 2021-08-30 at 22 47 11](https://user-images.githubusercontent.com/81887698/131439401-4c3b39d2-8803-4273-b24c-11d9ae68e786.jpeg)
 
 
-4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+la frecuencia 100
+
+![WhatsApp Image 2021-08-30 at 22 56 23](https://user-images.githubusercontent.com/81887698/131439405-558cffbf-b7af-4f65-a39f-9924286ea156.jpeg)
+
+la frecuencia 500
+
+![WhatsApp Image 2021-08-30 at 22 56 24](https://user-images.githubusercontent.com/81887698/131439411-0d07ecab-7903-4429-83c5-5d5ab21d9312.jpeg)
+
+
+4.RESPUESTA A INTERROGANTES
 
 
 
