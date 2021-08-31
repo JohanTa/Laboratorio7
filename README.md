@@ -6,16 +6,34 @@ Integrantes: Johan Taipicaña, Bryan Simabaña, Nayeli Tisalema.
 
 1.1.Objetivo general.
 
-realizar el analisis experimentalmente dela ley de corrientes de kirchhoff (ley de nodos) mediante el laboratorio 3
+realizar el analisis experimental de inductancia y capacitancia de un circuito.
 
 1.2.Objeticos específicos.
 
-Determinar las caidas de voltage de un circuito por medio de los conocimientos adquiridos en las clases Confirmar que en un circuito eléctrico la suma de corriente que entra a un nodo es igual a la suma de las corrientes que salen del mismo confirmar que un circuito electrónico la suma algebraica de los diferentes
+-verfificar el comportamiento de la bobina y  el capacitador en circuitos DC.
+-verfificar el comportamiento de la bobina y  el capacitador en circuitos AC.
+-verificar las combinaciones serie y paralelo de bobinas y capacitores.
+
 
 2.MARCO TEORICO
 
 
 3.EXPLICACION DEL PROCEDIMIENTO
+
+3.1 Con las medidas de seguridad pertinentes comenzamos con el analisis de los circuitos.
+![WhatsApp Image 2021-08-30 at 20 02 25](https://user-images.githubusercontent.com/81887698/131424975-cc7d3957-5449-44af-9685-5f1b582ca3b3.jpeg)
+![WhatsApp Image 2021-08-30 at 20 02 41](https://user-images.githubusercontent.com/81887698/131424979-c7328a4f-5722-4722-ab59-17d29e08dcde.jpeg)
+
+3.2 Usamos los siguientes materiales para realizar la simulacion.
+  -Generador de señales
+  -Fuente DC
+  -Osciloscopio
+  -Protoboard
+  -Multimetro
+  -Cables condutores
+  -Resistencias, bobinas y capacitadore.
+  
+3.3 Comenzamos a armar el circuito con los componentes ya escogidos con anterioridad para ellos nos vamos a apoyar en un simulador llamado Tinkercad para facilitar la simulacion del circuito.
 
 
 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
