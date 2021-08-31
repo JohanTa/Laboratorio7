@@ -16,6 +16,8 @@ realizar el analisis experimental de inductancia y capacitancia de un circuito.
 
 
 2.MARCO TEORICO
+![laboratiorio 7](https://user-images.githubusercontent.com/81887698/131426258-5223f2b2-9601-49e5-8fe6-b2ff1bc259cd.PNG)
+
 
 
 3.EXPLICACION DEL PROCEDIMIENTO
