@@ -35,7 +35,15 @@ realizar el analisis experimental de inductancia y capacitancia de un circuito.
   -Cables condutores
   -Resistencias, bobinas y capacitadore.
   
-3.3 Comenzamos a armar el circuito con los componentes ya escogidos con anterioridad para ellos nos vamos a apoyar en un simulador llamado Tinkercad para facilitar la simulacion del circuito.
+3.3 Utilice el osciloscopio para observar el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+
+la frecuencia 0
+![WhatsApp Image 2021-08-30 at 22 21 03](https://user-images.githubusercontent.com/81887698/131436494-8556273f-2c6f-465b-b729-cecbf08a4af4.jpeg)
+
+la frecuencia 10
+![WhatsApp Image 2021-08-30 at 22 22 15](https://user-images.githubusercontent.com/81887698/131436544-34e6c833-c963-415b-a600-bfb2a4772419.jpeg)
+
+la frecuencia 50
 
 
 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
