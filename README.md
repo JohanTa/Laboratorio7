@@ -1,4 +1,4 @@
-# Lboratorio8
+# Laboratorio7
 
 Integrantes: Johan Taipicaña, Bryan Simabaña, Nayeli Tisalema.
 
